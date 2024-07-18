@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "171080900771",
+    "firebase_url": "https://chat-5e5d2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chat-5e5d2",
+    "storage_bucket": "chat-5e5d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171080900771:android:30c731bb83fcd05518df16",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVabeWQ_Wo2aM1jLI5DiMupS2geUG-VjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
